@@ -22,3 +22,6 @@ For information on how to create and activate virtual environment check [here](h
         |                        └──  ...
         ├── README.md
         └── RbRG paper
+
+## Google Colab
+Implementation of the project was done in Google Colab. The link to the Colab is [here](https://colab.research.google.com).
