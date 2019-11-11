@@ -17,7 +17,8 @@ For information on how to create and activate virtual environment check [here](h
 
 ## Repository Structure:
 
-        ├── Exanple #Contains files to demonstrate the perfomance of RbRG
-        ├── Python Implementation                 
+        ├── Example #Contains files to demonstrate the perfomance of RbRG
+        ├── Python Implementation├── modules #Contains all user-defined modules used in the project.
+        |                        └──  ...
         ├── README.md
         └── RbRG paper
