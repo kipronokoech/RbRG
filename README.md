@@ -1,5 +1,6 @@
 # RbRG Impelementation
 Download, configuration and deploying:
+
     *clone repository
     *cd rgr-public/Python
     *create virtual environment: virtualenv . (if you have multiple python versions, run: virtualenv -p python3 .)
