@@ -1,8 +1,7 @@
 # RbRG Impelementation
 Download, configuration and deploying:
-
-    -clone repository
-    -cd rgr-public/Python
+1.clone repository
+    2.cd rgr-public/Python
     -create virtual environment: virtualenv . (if you have multiple python versions, run: virtualenv -p python3 .)
     -enter virtual environment: source ./bin/activate
     -install requirements: pip install -r requirements.txt (if it fails, try upgrading pip: pip install --upgrade pip)
