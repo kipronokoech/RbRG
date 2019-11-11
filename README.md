@@ -7,9 +7,9 @@ Download, configuration and deploying:
     4. enter virtual environment: source ./bin/activate
     5. Install requirements: pip install -r requirements.txt (if it fails, try upgrading pip: pip install --upgrade pip)
     6. recompile "callRGR", which compiles .cpp file for Python usage:
-      ..* python setup.py build_ext --inplace
+            - python setup.py build_ext --inplace
     7. run the .py code of your choice:
-        ..+ Refine CNN coarse segmentation: python runRGR.py
-        ..+ Grow segmentation mask from traces: python runRGR_traces.py
+            - Refine CNN coarse segmentation: python runRGR.py
+            - Grow segmentation mask from traces: python runRGR_traces.py
 
 
