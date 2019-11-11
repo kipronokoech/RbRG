@@ -1,0 +1,9 @@
+Cython
+shapely
+numpy
+opencv-contrib-python
+opencv-python
+pandas
+scikit_image
+scipy
+
