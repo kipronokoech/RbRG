@@ -15,10 +15,9 @@ Download, configuration and deploying:
 ### Virtual environment 
 For information on how to create and activate virtual environment check [here](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/).
 
-        ├── build                   # Compiled files (alternatively `dist`)
-        ├── docs                    # Documentation files (alternatively `doc`)
-        ├── src                     # Source files (alternatively `lib` or `app`)
-        ├── test                    # Automated tests (alternatively `spec` or `tests`)
-        ├── tools                   # Tools and utilities
-        ├── LICENSE
-        └── README.md
+## Repository Structure:
+
+        ├── Exanple #Contains files to demonstrate the perfomance of RbRG
+        ├── Python Implementation                 
+        ├── README.md
+        └── RbRG paper
