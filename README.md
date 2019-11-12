@@ -1,5 +1,5 @@
 # RbRG Impelementation
-Download, configuration and deploying:
+To get started follow these steps:
 
     1. clone repository into a <folder>, that is, run the following commands in the terminal:
             - cd <folder>
